@@ -40,9 +40,9 @@
   },
   "dependencies": {
     "@appium/base-plugin": "^2.3.5",
-    "@appium/support": "^6.0.8",
+    "@appium/support": "^7.1.0",
     "bluebird": "3.7.2",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "source-map-support": "0.5.21"
   },
   "peerDependencies": {
